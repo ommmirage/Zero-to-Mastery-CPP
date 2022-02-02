@@ -1,2 +1,2 @@
-<h1 align="center"><code>Zero to Mastery C++ Cource</code></h1>
+<h1 align="center">Zero to Mastery C++ Cource</h1>
 https://www.udemy.com/course/learn-c-from-zero-to-mastery/
